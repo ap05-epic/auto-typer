@@ -8,15 +8,15 @@ Package this file (e.g., as autotyper.py) into your GitHub repository.
 Install Dependencies
 Run the following command in your terminal:
 
-bash
-Copy
 pip install pyautogui keyboard pyperclip
+
+
 Run the Program
 Execute the program:
 
-bash
-Copy
 python autotyper.py
+
+
 Customize Settings via the GUI
 
 Text Box: Paste or type the text you wish to auto-type. If left empty, the program will type text from your clipboard.
